@@ -213,10 +213,19 @@ Further readings in [Wittmann 2015 - German only](/docs/thesis/Wittmann_2015_exc
 - Jäger, B., Wittmann, M., & Lienkamp, M. (2017). Agent-based Modeling and Simulation of Electric Taxi Fleets. In 6. Conference on Future Automotive Technology (pp. 11–47).
 - Jäger, B., Wittmann, M., & Lienkamp, M. (2016). Analyzing and Modeling a City’s Spatiotemporal Taxi Supply and Demand: A Case Study for Munich. Journal of Traffic and Logistics Engineering, 4(2), 147–153. https://doi.org/10.18178/jtle.4.2.147-153
 - Jäger, B., Brickwedde, C., & Lienkamp, M. (2018). Multi-Agent Simulation of a Demand-Responsive Transit System Operated by Autonomous Vehicles. Transportation Research Record: Journal of the Transportation Research Board, 2672(8), 764–774. https://doi.org/10.1177/0361198118786644
- 
-# Contributions
-This Simulation has been developed by Michael Wittmann during his Master's Thesis in 2015:
-- Wittmann, M. (2015). Nachfrageorientierte Agentensimulation zur Bestimmung des Elektrifizierungspotentials von Fahrzeugflotten. Technische Universität München.
 
-The Thesis has been supervised by Benedikt Jäger. Benedikt Jäger, was mainly responsible for the definition of the 
+## Authors
+**Michael Wittmann (Developer)**
+
+This simulation model has been developed by Michael Wittmann during his Master's Thesis at TUM in 2015:
+   - Wittmann, M. (2015). Nachfrageorientierte Agentensimulation zur Bestimmung des Elektrifizierungspotentials von Fahrzeugflotten. Technische Universität München.
+
+**Benedikt Jäger (Supervisor)**
+
+Benedikt Jäger, was mainly responsible for the definition of the 
 research question and made an essential contribution to the overall concept development.  
+
+## License
+This project is licensed under the LGPL License - see the LICENSE.md file for details
+
+
