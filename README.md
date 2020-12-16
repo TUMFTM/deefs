@@ -94,7 +94,8 @@ track_id,day,hour,minute,duration,distance,start_area,start_x,start_y,stop_area,
 
 #### Facilites (Cahrgins Stations and Taxi Ranks)
 Define ranks and charging stations to be used in this scenario
-```xml<?xml version="1.0"?>
+```xml
+<?xml version="1.0"?>
 <FACILITIES> 			
 	<FACILITY TYPE="RANK"> 						<!--Facility class RANK-->
 		<ID>1001</ID> 									<!--Unique Facility ID-->
