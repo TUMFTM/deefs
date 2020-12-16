@@ -202,6 +202,7 @@ public class Main {
 
 # Output
 Simulation Outputs will be stored in a sqlite Database:
+
 <img src="docs/img/output_database.png" width="400" >
 
 
