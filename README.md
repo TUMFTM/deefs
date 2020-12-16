@@ -216,7 +216,7 @@ Further readings in [Wittmann 2015 - German only](/docs/thesis/Wittmann_2015_exc
 - Jäger, B., Brickwedde, C., & Lienkamp, M. (2018). Multi-Agent Simulation of a Demand-Responsive Transit System Operated by Autonomous Vehicles. Transportation Research Record: Journal of the Transportation Research Board, 2672(8), 764–774. https://doi.org/10.1177/0361198118786644
 
 ## Authors
-**Michael Wittmann (Developer)**
+**[Michael Wittmann](https://github.com/michaelwittmann) (Developer)**
 
 This simulation model has been developed by Michael Wittmann during his Master's Thesis at TUM in 2015:
    - Wittmann, M. (2015). Nachfrageorientierte Agentensimulation zur Bestimmung des Elektrifizierungspotentials von Fahrzeugflotten. Technische Universität München.
