@@ -205,7 +205,7 @@ Simulation Outputs will be stored in a sqlite Database:
 
 <img src="docs/img/output_database.png" width="400" >
 
-Further readings in [Wittmann 2015 - German only](../docs/thesis/Wittmann_2015_excerpt.pdf)
+Further readings in [Wittmann 2015 - German only](/docs/thesis/Wittmann_2015_excerpt.pdf)
 
 
 
