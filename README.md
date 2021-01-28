@@ -222,7 +222,7 @@ Further readings in [Wittmann 2015 - German only](/docs/thesis/Wittmann_2015_exc
 This simulation model has been developed by Michael Wittmann during his Master's Thesis at TUM in 2015:
    - Wittmann, M. (2015). Nachfrageorientierte Agentensimulation zur Bestimmung des Elektrifizierungspotentials von Fahrzeugflotten. Technische Universität München.
 
-**Benedikt Jäger (Supervisor)**
+**[Benedikt Jäger](https://github.com/benediktj) (Supervisor)**
 
 Benedikt Jäger, was mainly responsible for the definition of the 
 research question and made an essential contribution to the overall concept development.  
